@@ -6,23 +6,39 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Demo/Scenes/PicoDemo-Launcher.unity
-    guid: fb014ddd63d37cd42b202948e635dcc5
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Demo/Scenes/PicoDemo-Room for 1.unity
-    guid: ed805010da6898c448d010f3be553ba9
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Demo/Scenes/PicoDemo-Room for 2.unity
-    guid: 26e8404bf12ac7e479ca818d628b875b
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Demo/Scenes/PicoDemo-Room for 3.unity
-    guid: 75d729b49056e824cb0e2e04b2b4f76b
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Demo/Scenes/PicoDemo-Room for 4.unity
-    guid: c6ef59a0b3ad3be4dacb938e386ae480
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/PeriodicTableScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Packages/com.unity.xr.picoxr/Platform/Samples/RtcDemo/RtcDemo.unity
+    guid: 9f29caad6af8a41859a78c59828a8aa7
+  - enabled: 0
+    path: Packages/com.unity.xr.picoxr/Platform/Samples/Game/RoomAndMatchmakingEntry/RoomAndMatchmakingEntry.unity
+    guid: af5ad559f7c0d4e06b6b642e078980be
+  - enabled: 0
+    path: Assets/Scenes/AtomInTable.unity
+    guid: 037ee45b051d15242882335f2efe10e5
+  - enabled: 1
+    path: Assets/Scenes/PeriodicTable.unity
+    guid: bb303cb349ce1574693eb4be592891e9
+  - enabled: 1
+    path: Assets/Scenes/AtomicDetailScene.unity
+    guid: f20e3db197518654ba519eafac16f460
   m_configObjects:
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: 324cb5b364847334da2b9568f445a7f6, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 4ab87a7afacfeef408ecbc8d672dabb6, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 35fed12bf3d68d4459e4aa43e051eaba, type: 2}

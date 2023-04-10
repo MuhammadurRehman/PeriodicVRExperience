@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "PA7J50PGFB190100W",
         "name": "com.Pico.PhotonMultiplayerDemo",
-        "processId": 21322,
+        "processId": 10915,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -53,91 +53,175 @@
         {
             "deviceId": "PA7J50PGFB190100W",
             "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 7500,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 8052,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 9380,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 13899,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 14457,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 14856,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 15394,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 15857,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 17008,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 17664,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 18173,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 18940,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 19467,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
-            "processId": 19787,
-            "exited": false
-        },
-        {
-            "deviceId": "PA7J50PGFB190100W",
-            "name": "com.Pico.PhotonMultiplayerDemo",
             "processId": 21322,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 11073,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 11203,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 11366,
+            "exited": true
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 5075,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 5538,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 5716,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 6076,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 6475,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 7194,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 7431,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 7605,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 7809,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 4914,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 5210,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 5379,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 5586,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 6036,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 6233,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 6445,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 6660,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 7125,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 7549,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 8058,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 8469,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 9187,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 9681,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 10111,
+            "exited": false
+        },
+        {
+            "deviceId": "PA7J50PGFB190100W",
+            "name": "com.Pico.PhotonMultiplayerDemo",
+            "processId": 10915,
             "exited": false
         }
     ],
